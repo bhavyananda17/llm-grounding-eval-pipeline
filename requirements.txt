@@ -1,0 +1,17 @@
+# Core ML / inference (CPU-only, Apple Silicon compatible)
+torch==2.1.2
+transformers==4.45.0
+peft==0.7.1
+datasets==2.15.0
+numpy==1.26.4
+huggingface-hub==0.24.0
+fsspec==2023.10.0
+
+# Retrieval
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+
+# Judge API + utils
+groq==0.11.0
+python-dotenv==1.0.0
+tqdm==4.66.1

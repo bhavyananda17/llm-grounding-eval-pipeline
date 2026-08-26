@@ -1,0 +1,97 @@
+{
+  "num_chunks": 158,
+  "embedding_model": "all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "chunk_size": 500,
+  "chunk_overlap": 100,
+  "documents": [
+    {
+      "filename": "named_entity_recognition.txt",
+      "size": 2900
+    },
+    {
+      "filename": "attention_mechanism.txt",
+      "size": 2436
+    },
+    {
+      "filename": "tokenization.txt",
+      "size": 2722
+    },
+    {
+      "filename": "chain_of_thought_reasoning.txt",
+      "size": 2795
+    },
+    {
+      "filename": "information_retrieval.txt",
+      "size": 2794
+    },
+    {
+      "filename": "instruction_tuning_alignment.txt",
+      "size": 2604
+    },
+    {
+      "filename": "few_shot_in_context_learning.txt",
+      "size": 2877
+    },
+    {
+      "filename": "llm_as_judge_evaluation.txt",
+      "size": 2559
+    },
+    {
+      "filename": "lora_finetuning.txt",
+      "size": 2352
+    },
+    {
+      "filename": "transformer_architecture.txt",
+      "size": 2497
+    },
+    {
+      "filename": "text_summarization.txt",
+      "size": 2897
+    },
+    {
+      "filename": "model_scaling_laws.txt",
+      "size": 2558
+    },
+    {
+      "filename": "prompt_vs_finetuning.txt",
+      "size": 2424
+    },
+    {
+      "filename": "hallucination_detection_methods.txt",
+      "size": 2562
+    },
+    {
+      "filename": "beam_search_decoding.txt",
+      "size": 2927
+    },
+    {
+      "filename": "llm_hallucinations.txt",
+      "size": 2476
+    },
+    {
+      "filename": "vector_embeddings.txt",
+      "size": 2388
+    },
+    {
+      "filename": "rag_systems.txt",
+      "size": 2405
+    },
+    {
+      "filename": "knowledge_distillation.txt",
+      "size": 2828
+    },
+    {
+      "filename": "quantization.txt",
+      "size": 2669
+    },
+    {
+      "filename": "transfer_learning_nlp.txt",
+      "size": 3070
+    },
+    {
+      "filename": "large_language_models.txt",
+      "size": 2443
+    }
+  ]
+}
